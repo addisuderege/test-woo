@@ -1,6 +1,7 @@
 
+this is from mas
 
 
-this is sample text from the editor.
+this is sample text from the master
 
  
