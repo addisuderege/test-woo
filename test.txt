@@ -1,21 +1,13 @@
 
-
-
-
-
-
-
-B
-B
-B
-A
-A
-A
-B
  am in line one
-changing from localBrach
+changing from localBrac
+this is from mas
+
+this is from locabBranch abc
 
 
-this is sample text from the editor.
+
+
+this is sample text from the master
 
 
